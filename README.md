@@ -5,8 +5,9 @@ Aim of this project is to teach how to use, and present 3D models in an android 
 
 ## Screenshots
 <div style="display: inline-block;">>
-  <img src="images/screenshot1.png" width="200" height="400">
-  <img src="images/screenshot2.png" width="200" height="400">
+  <img src="images/Screenshot 2022-03-12 115807.jpg" width="200" height="400">
+  <img src="images/image.png" width="200" height="400">
+  <img src="images/image1.jpg" width="200" height="400">
   <img src="images/screenshot3.png" width="200" height="400">
   <img src="images/screenshot4.png" width="200" height="400">
 </div>
