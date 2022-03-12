@@ -10,6 +10,7 @@ Aim of this project is to demonstrate how to use, and present 3D models in an an
   <img src="images/image1.jpg" width="200" height="400">
   <img src="images/screenshot3.png" width="200" height="400">
   <img src="images/screenshot4.png" width="200" height="400">
+  <img src="images/authentication.jpg">
 </div>
 
 ## Documentation
