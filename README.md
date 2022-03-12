@@ -1,5 +1,5 @@
 # 3D Model Presenting in Android
-> This is a sample android app to present any 3D model with .glb or .glTF extension by using one of 2 easy ways.
+> This is an android app to present any 3D model with .glb or .glTF extension by using one of 2 easy ways.
 
 Aim of this project is to demonstrate how to use, and present 3D models in an android app. The main, and suggested way to do that is using model viewer which is also used as the name of the project. However, there is still a good solution which is using ARCore, and it's implementation is also included in this project.
 
